@@ -14,5 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "history": "^4.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyongleihf2006/ishistorypathequal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liyongleihf2006/ishistorypathequal/issues"
   }
 }
